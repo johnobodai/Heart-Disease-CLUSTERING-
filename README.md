@@ -26,7 +26,7 @@ The dataset used in this project is the heart disease dataset from the UCI Machi
 ## Installation
 To run this project, you'll need to have Python and the required libraries installed. Clone the repository using the following command:
 ```bash
-git clone <repository-url>
+git clone https://github.com/johnobodai/Heart-Disease-CLUSTERING-.git
 ```
 
 ### Requirements
